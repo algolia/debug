@@ -1,6 +1,6 @@
 {
   "name": "debug",
-  "version": "2.2.0",
+  "version": "2.2.0-future-reserved-word-fix-ms",
   "repository": {
     "type": "git",
     "url": "git://github.com/visionmedia/debug.git"
@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ms": "0.7.1"
+    "ms": "git://github.com/algolia/ms.js.git#cbd227a1dd1d64be98ad003ece882e8101bcd115"
   },
   "devDependencies": {
     "browserify": "9.0.3",
