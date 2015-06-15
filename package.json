@@ -1,5 +1,5 @@
 {
-  "name": "debug",
+  "name": "debug-ms-fix-yui-compressor",
   "version": "2.2.0-future-reserved-word-fix-ms",
   "repository": {
     "type": "git",
